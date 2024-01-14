@@ -3,7 +3,7 @@ import Contacts from "./components/Contacts";
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Contacts></Contacts>
     </div>
   );
